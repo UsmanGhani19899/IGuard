@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:iguard/Screens/SingUp.dart';
+import 'package:iguard/Screens/SignUp.dart';
 import 'package:iguard/Widgets/appBtn.dart';
 
 class NurseRegister extends StatelessWidget {

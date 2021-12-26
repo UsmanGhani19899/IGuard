@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
-import 'package:iguard/Screens/SingUp.dart';
+import 'package:iguard/Screens/SignUp.dart';
 import 'package:iguard/Screens/account_add.dart';
 import 'package:iguard/Widgets/appBtn.dart';
 import 'package:iguard/Widgets/text_felds.dart';
@@ -96,9 +96,11 @@ class _CardInfoState extends State<CardInfo> {
                             hint: "458",
                             controller: _cvcController),
                         AppTextFields(
-                            textFieldName: "Valid Thru",
-                            hint: "01/04",
-                            controller: _validThruController),
+                          textFieldName: "Valid Thru",
+                          hint: "01/04",
+                          controller: _validThruController,
+                          validator: null,
+                        ),
                         AppBtn(
                             btnName: "Add",
                             onPressed: () {

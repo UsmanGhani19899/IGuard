@@ -13,7 +13,7 @@ class AppBtn extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: EdgeInsets.symmetric(
-        horizontal: 20,
+        horizontal: 10,
       ),
       width: MediaQuery.of(context).size.width,
       child: ElevatedButton(

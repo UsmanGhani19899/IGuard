@@ -22,8 +22,8 @@ class BuyerRatingScreen extends StatelessWidget {
                 color: Colors.black,
               )),
           title: Image(
-            image: AssetImage("assets/images/2.png"),
-            height: 40,
+            image: AssetImage("assets/images/logo.png"),
+            height: MediaQuery.of(context).size.height * 0.05,
           ),
           actions: [
             Container(

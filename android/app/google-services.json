@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839612195083",
+    "project_id": "iguard-2f4bc",
+    "storage_bucket": "iguard-2f4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839612195083:android:61cbd3abc73a5537a2c20e",
+        "android_client_info": {
+          "package_name": "com.example.iguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839612195083-m7jl6j2nl26aii07eaiaj3dhc1hvg10v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyadZTa4xFL7UkLwvG4EYqA_uLgtCtBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839612195083-m7jl6j2nl26aii07eaiaj3dhc1hvg10v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
